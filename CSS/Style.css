@@ -1,0 +1,13 @@
+
+body {color: Pink; (rgb(25,25,205));
+font-family: chalkduster; margin: 30px;}
+
+div {min-height: 20vh; width: 25vw;}
+
+h1,h2 { text-align: center;}
+
+h1{font-size: 5em;}
+
+h2{font-size: 2.5em;}
+
+img{ display: flex; margin: 0 auto; padding: 20px; border-radius: 130px;}
